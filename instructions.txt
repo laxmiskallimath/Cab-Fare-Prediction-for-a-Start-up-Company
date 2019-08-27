@@ -1,0 +1,4 @@
+1)	For R code please  open R file and run the rscript to get the output in console
+2)	For Python please open Anaconda prompt type Jupyter notebook and load   ipynb file and run the code 
+3)	.py file also attached please download the same run in cmd
+4)	Just Click on the pdf for comprensive project report 
